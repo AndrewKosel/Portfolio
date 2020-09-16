@@ -31,24 +31,24 @@
         </ul>
       </div>
     </nav>
-<!-- Need to add Submit button -->
-  <form>
-  <div class="row">
-    <input type="text" class="form-control" placeholder="Name">
+<div class="container device-width">
+  <div class="card float">
+<form>
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Full Name</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Jon Doe">
   </div>
-  <div class="row">
-    <input type="text" class="form-control" placeholder="Email">
+  <div class="form-group">
+    <label for="exampleFormControlInput2">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="name@example.com">
   </div>
-  <div class="row">
-    <input type="text" class="form-control" placeholder="Message">
+    <label for="exampleFormControlTextarea1">Message</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
   <button type="submit" class="btn btn-primary bg-info">Submit</button>
 </form>
-
-<footer class="footer bg-info footer-light text-white">
-  <span class="text-muted">Andrew Kosel</span>
-
-</footer>
+</div>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -56,4 +56,14 @@
 
 </body>
 
+<footer>
+<div class="card fixed-bottom">
+  <div class="card-body">
+    <quote class="quote mb-0">
+      <p>"Everybody in this country should learn to program a computer, because it teaches you how to think"</p>
+      <footer class="blockquote-footer">Steve Jobs<cite title="Source Title"></cite></footer>
+    </blockquote>
+  </div>
+</div>
+</footer>
 </html>
