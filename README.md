@@ -1,1 +1,62 @@
 # Portfolio
+
+## Description 
+
+This project is a series of web pages to show case my personal portfolio that can be used to introduce my self to others. The purpose of creating these websites is to show case my ability to leverage the grid system and build out functional websites using mostly Bootstrap and a little css. Each page is device responsive and allows users across any device to view and access a website that has a friendly UI/UX.
+
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Author](#author)
+
+
+## Installation
+
+To view the code and download go to [https://ph-kandy.github.io/Portfolio/]
+
+
+## Usage 
+
+My website's source code can be used to create a basic portfolio of 3 webpages that are designed to show case an individuals resume, skill set, work, and contact information.
+
+
+## Credits
+
+Credits are due to my teaching staff for guiding me into the light when I am stuck. My study group mates who push me and share ideas on how to tackle coding.
+[https://getbootstrap.com/] for giving me the material to create these webpages. [https://www.w3schools.com/] for allowing me to practice with simple elements to gain an understanding.
+
+
+
+## License
+
+MIT License
+
+Copyright (c) [2020] [https://www.linkedin.com/in/andrew-kosel/]
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+---
+
+## Author
+
+Andrew Kosel [https://www.linkedin.com/in/andrew-kosel/]
+             [https://github.com/ph-kandy/Portfolio]
+             [https://ph-kandy.github.io/Portfolio/]
