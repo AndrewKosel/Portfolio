@@ -9,7 +9,6 @@ This project is a series of web pages to show case my personal portfolio that ca
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Images](#images)
 * [Credits](#credits)
 * [License](#license)
 * [Author](#author)
@@ -24,10 +23,6 @@ To view the code and download go to [https://ph-kandy.github.io/Portfolio/]
 
 My website's source code can be used to create a basic portfolio of 3 webpages that are designed to show case an individuals resume, skill set, work, and contact information.
 
-## Images
-![portfolio] (2020-10-07.png)
-![Portfolio] (2020-10-07(1).png)
-![Portfolio] (2020-10-07(2).png)
 
 ## Credits
 
