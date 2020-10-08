@@ -25,9 +25,9 @@ To view the code and download go to [https://ph-kandy.github.io/Portfolio/]
 My website's source code can be used to create a basic portfolio of 3 webpages that are designed to show case an individuals resume, skill set, work, and contact information.
 
 ## Images
-![portfolio] (Portfolio\images\2020-10-07 (1).png)
-![Portfolio] (Portfolio\images\2020-10-07 (2).png)
-![Portfolio] (Portfolio\images\2020-10-07.png)
+![portfolio] (/homework/assets/Images/2020-10-07.png)
+![Portfolio] (/homework/assets/Images/2020-10-07(1).png)
+![Portfolio] (/homework/assets/Images/2020-10-07(2).png)
 
 ## Credits
 
