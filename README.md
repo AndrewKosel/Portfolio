@@ -9,6 +9,7 @@ This project is a series of web pages to show case my personal portfolio that ca
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Images](#images)
 * [Credits](#credits)
 * [License](#license)
 * [Author](#author)
@@ -23,6 +24,8 @@ To view the code and download go to [https://ph-kandy.github.io/Portfolio/]
 
 My website's source code can be used to create a basic portfolio of 3 webpages that are designed to show case an individuals resume, skill set, work, and contact information.
 
+## Images
+
 
 ## Credits
 
@@ -31,11 +34,20 @@ Credits are due to my teaching staff for guiding me into the light when I am stu
 
 
 
+## Author
+[Andrew Kosel]
+
+* [LinkedIn](https://www.linkedin.com/in/andrew-kosel/)
+* [Github](https://github.com/ph-kandy)
+
+
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 MIT License
 
-Copyright (c) [2020] [https://www.linkedin.com/in/andrew-kosel/]
+Copyright (c) [2020] [Andrew Kosel]
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -53,10 +65,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
----
-
-## Author
-
-Andrew Kosel [https://www.linkedin.com/in/andrew-kosel/]
-             [https://github.com/ph-kandy/Portfolio]
-             [https://ph-kandy.github.io/Portfolio/]
